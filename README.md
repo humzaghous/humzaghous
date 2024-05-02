@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @humzaghous
-- 👀 I’m interested in full stack django developer
-- 👀 I’m interested in django backend developer
-- 👀 I’m interested in frontend developments (html, css, bootstrap)
-- 🌱 I’m currently learning Big data in python
-- 💞️ I’m looking to collaborate on django projects
-- 📫 How to reach me ...
+👋 Hi there, I'm @humzaghous!
 
-<!---
-humzaghous/humzaghous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm a full-stack developer fluent in Node.js, Express.js, PostgreSQL, and React.js/HTML/CSS. My expertise lies in crafting seamless web applications, with a special focus on integrating AI capabilities to unlock new possibilities.
+
+🌱 Currently, I'm expanding my knowledge in Azure and AWS cloud, adding another dimension to my skill set.
+
+💻 I'm passionate about building innovative solutions and collaborating on exciting projects. Let's join forces and create something extraordinary! 🚀
+
+📫 Feel free to reach out to me at Humzaghous@gmail.com!
+
+
